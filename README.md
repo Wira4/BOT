@@ -21,3 +21,18 @@
 <p align="center">
   <a href="https://github.com/SOBATGAMER/CLONEBOT/generate">
     <img width="50%" src="https://i.ibb.co/S7ptbxV/odc.jpg" alt="@SOBATGAMER/CLONEBOT">
+
+
+
+## CARA PASANG
+```bash
+termux-setup-storage
+pkg install git
+pkg install nodejs
+cd /sdcard
+cd BOT
+node main
+```
+## ```Deploy```
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOBATGAMER/BOT/)
