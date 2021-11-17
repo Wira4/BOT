@@ -20,4 +20,4 @@
 - Botname [Here](https://github.com/SOBATGAMER/BOT/blob/master/setting.json)
 <p align="center">
   <a href="https://github.com/SOBATGAMER/CLONEBOT/generate">
-    <img width="80%" src="https://i.ibb.co/S7ptbxV/odc.jpg" alt="@SOBATGAMER/CLONEBOT">
+    <img width="50%" src="https://i.ibb.co/S7ptbxV/odc.jpg" alt="@SOBATGAMER/CLONEBOT">
