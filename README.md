@@ -18,3 +18,6 @@
 - Owner name [Here](https://github.com/SOBATGAMER/BOT/blob/master/setting.json)
 
 - Botname [Here](https://github.com/SOBATGAMER/BOT/blob/master/setting.json)
+<p align="center">
+  <a href="https://github.com/SOBATGAMER/CLONEBOT/generate">
+    <img width="100%" src="https://i.ibb.co/S7ptbxV/odc.jpg" alt="@SOBATGAMER/CLONEBOT">
